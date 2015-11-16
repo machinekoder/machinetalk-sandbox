@@ -16,5 +16,5 @@
 [submodule "libelektra"]
     path = libelektra
     url = git@github.com:strahlex/libelektra.git
-    branch = develop
+    branch = master
     ignore = dirty

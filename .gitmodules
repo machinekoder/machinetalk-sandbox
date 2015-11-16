@@ -1,0 +1,9 @@
+[submodule "pymachinetalk"]
+	path = pymachinetalk
+	url = git@github.com:strahlex/pymachinetalk.git
+[submodule "machinetalk-protobuf"]
+	path = machinetalk-protobuf
+	url = git@github.com:strahlex/machinetalk-protobuf.git
+[submodule "machinekit"]
+	path = machinekit
+	url = git@github.com:strahlex/machinekit.git

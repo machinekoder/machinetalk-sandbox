@@ -18,3 +18,8 @@
     url = git@github.com:strahlex/libelektra.git
     branch = master
     ignore = dirty
+[submodule "paramserver"]
+    path = paramserver
+    url = git@github.com:strahlex/paramserver.git
+    branch = master
+    ignore = dirty

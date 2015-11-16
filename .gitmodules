@@ -6,7 +6,7 @@
 [submodule "machinetalk-protobuf"]
     path = machinetalk-protobuf
     url = git@github.com:strahlex/machinetalk-protobuf.git
-    branch = master
+    branch = param
     ignore = dirty
 [submodule "machinekit"]
     path = machinekit

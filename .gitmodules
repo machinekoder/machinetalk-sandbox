@@ -1,11 +1,20 @@
 [submodule "pymachinetalk"]
-	path = pymachinetalk
-	url = git@github.com:strahlex/pymachinetalk.git
-	branch = param
+    path = pymachinetalk
+    url = git@github.com:strahlex/pymachinetalk.git
+    branch = param
+    ignore = dirty
 [submodule "machinetalk-protobuf"]
-	path = machinetalk-protobuf
-	url = git@github.com:strahlex/machinetalk-protobuf.git
+    path = machinetalk-protobuf
+    url = git@github.com:strahlex/machinetalk-protobuf.git
+    branch = master
+    ignore = dirty
 [submodule "machinekit"]
-	path = machinekit
-	url = git@github.com:strahlex/machinekit.git
-	branch = develop
+    path = machinekit
+    url = git@github.com:strahlex/machinekit.git
+    branch = develop
+    ignore = dirty
+[submodule "libelektra"]
+    path = libelektra
+    url = git@github.com:strahlex/libelektra.git
+    branch = develop
+    ignore = dirty

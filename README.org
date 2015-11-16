@@ -1,0 +1,6 @@
+* Strahlex' Machinetalk Sandbox
+
+This is my personal Machinetalk playground. Anything that happens in
+this repository is highly experimental and may cause physical or
+mental damage when used without caution. Be aware of bugs, typos and
+other nasty creatures when walking though the dungeons of my sandbox.

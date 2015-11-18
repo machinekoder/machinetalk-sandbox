@@ -23,3 +23,8 @@
     url = git@github.com:strahlex/paramserver.git
     branch = master
     ignore = dirty
+[submodule "mkwrapper-sim"]
+    path = mkwrapper-sim
+    url = git@github.com:strahlex/mkwrapper-sim.git
+    branch = param
+    ignore = dirty

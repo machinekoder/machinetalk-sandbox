@@ -5,4 +5,5 @@ cd build
 cmake -DPLUGINS=ALL -DBINDINGS=ALL ..
 make
 sudo make install
+sudo ldconfig
 cd ../..
